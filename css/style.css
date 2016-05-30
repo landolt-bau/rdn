@@ -1,0 +1,25 @@
+.slogan {
+    font-weight: 600;
+    color: #474747;
+    letter-spacing: 3px;
+}
+
+.lco-mittel {
+	font-size: 14px;
+	color: #474747
+}
+.lco-klein {
+	font-size: 13px;
+	color: #474747
+}
+
+ol {list-style-type: decimal;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+.no-margin-top {
+	margin-top: 0px;
+}
